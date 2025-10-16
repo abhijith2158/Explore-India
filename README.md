@@ -11,7 +11,8 @@ Clean and accessible user interface
 
 Asset folder containing custom images and illustrations
 
-Technologies Used
+Technologies Used:
+
 HTML
 
 CSS
