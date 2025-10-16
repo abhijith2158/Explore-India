@@ -16,7 +16,6 @@ HTML
 
 CSS
 
-Graphic Design (Vector Illustration)
 
 Usage
 Open index.html in any web browser to explore the featured sites and images. The project focuses on clarity, user engagement, and aesthetic appeal.
